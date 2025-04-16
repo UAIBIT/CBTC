@@ -1,5 +1,5 @@
-# Merchant
-All UAIBIT Bitcoinized / Partners Business
+# Bitcoin BH
+All Bitcoin BH Bitcoinized / Partners Business
 
 ## ZACAR
 shop: car_repair  
